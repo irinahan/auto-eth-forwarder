@@ -1,7 +1,7 @@
 name: Auto ETH Forwarder
 
 on:
-  workflow_dispatch:      # запуск вручную
+  workflow_dispatch:      # запуск вручную.
   schedule:
     - cron: '*/30 * * * *'  # запуск каждые 30 минут
 
