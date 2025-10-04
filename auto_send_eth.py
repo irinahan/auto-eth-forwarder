@@ -5,7 +5,7 @@ rpc_url = os.getenv("RPC_URL")
 private_key = os.getenv("PRIVATE_KEY")
 my_address = os.getenv("MY_ADDRESS")
 destination_address = os.getenv("DESTINATION_ADDRESS")
-gas_price_gwei = 20
+gas_price_gwei = 21
 
 web3 = Web3(Web3.HTTPProvider(rpc_url))
 
