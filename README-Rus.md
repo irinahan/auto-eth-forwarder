@@ -8,7 +8,7 @@ requirements.txt — список зависимостей.
 
 .github/workflows/auto_send_eth.yml — настройка GitHub Actions workflow.
 
-Настройка и использование
+Настройка и использование.
 Форкните или создайте репозиторий с этой структурой.
 
 Добавьте Secrets в настройках репозитория (Settings → Secrets → Actions):
