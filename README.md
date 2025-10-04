@@ -3,7 +3,7 @@ README in English:
 Automatic ETH Forwarder via GitHub Actions
 This repository enables you to automatically forward all incoming ETH from your wallet to a specified address using GitHub Actions. The script is triggered on a schedule or manually and sends all available ETH (minus gas fee) to your main address.
 
-Structure
+Structure.
 auto_send_eth.py — main Python script handling ETH sending.
 
 requirements.txt — dependencies list.
